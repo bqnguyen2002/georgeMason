@@ -1,0 +1,589 @@
+{
+    "credit_transfer" : [
+        {
+            "ap_exam": "Art History",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Art History",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Art History",
+            "minimum_score": "5",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "2-D Art and Design",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "2-D Art and Design",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "2-D Art and Design",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "3-D Art and Design",
+            "minimum_score": "3",
+            "credits": "3"
+        },  
+        {
+            "ap_exam": "3-D Art and Design",
+            "minimum_score": "4",
+            "credits": "3"
+        }, 
+        {
+            "ap_exam": "3-D Art and Design",
+            "minimum_score": "5",
+            "credits": "3"
+        },    
+        {
+            "ap_exam": "Drawing",
+            "minimum_score": "3",
+            "credits": "3"
+        },   
+        {
+            "ap_exam": "Drawing",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Drawing",
+            "minimum_score": "5",
+            "credits": "3"
+        }, 
+        {
+            "ap_exam": "Music Theory",
+            "minimum_score": "3",
+            "credits": "3"
+        },   
+        {
+            "ap_exam": "Music Theory",
+            "minimum_score": "4",
+            "credits": "3"
+        }, 
+        {
+            "ap_exam": "English Language & Composition",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "English Language & Composition",
+            "minimum_score": "5",
+            "credits": "6"
+        }, 
+        {
+            "ap_exam": "English Literature & Composition",
+            "minimum_score": "4",
+            "credits": "3"
+        }, 
+        {
+            "ap_exam": "English Literature & Composition",
+            "minimum_score": "5",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Comparative Government and Politics",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Comparative Government and Politics",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Comparative Government and Politics",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "European History",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "European History",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "European History",
+            "minimum_score": "5",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Human Geography",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Human Geography",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Human Geography",
+            "minimum_score": "5",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Macroeconomics",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Macroeconomics",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Macroeconomics",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Microeconomics",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Microeconomics",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Microeconomics",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Psychology",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Psychology",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Psychology",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "United States Government and Politics",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "United States Government and Politics",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "United States Government and Politics",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "United States History",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "United States History",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "United States History",
+            "minimum_score": "5",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "World History: Modern",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "World History: Modern",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "World History: Modern",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "World History: Modern",
+            "minimum_score": "4",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Calculus AB",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Calculus AB",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Calculus AB",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Calculus AB Subscore",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Calculus AB Subscore",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Calculus AB Subscore",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Calculus BC",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Calculus BC",
+            "minimum_score": "4",
+            "credits": "8"
+        },
+        {
+            "ap_exam": "Calculus BC",
+            "minimum_score": "5",
+            "credits": "8"
+        },
+        {
+            "ap_exam": "Computer Science A",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Computer Science A",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Computer Science A",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Computer Science Principles",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Computer Science Principles",
+            "minimum_score": "4",
+            "credits": "5"
+        },
+        {
+            "ap_exam": "Computer Science Principles",
+            "minimum_score": "5",
+            "credits": "5"
+        },
+        {
+            "ap_exam": "Precalculus",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Precalculus",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Precalculus",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Statistics",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Statistics",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Statistics",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Biology",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Biology",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Biology",
+            "minimum_score": "5",
+            "credits": "8"
+        },
+        {
+            "ap_exam": "Chemistry",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Chemistry",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Chemistry",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Environmental Science",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Environmental Science",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Environmental Science",
+            "minimum_score": "4",
+            "credits": "8"
+        },
+        {
+            "ap_exam": "Environmental Science",
+            "minimum_score": "5",
+            "credits": "8"
+        },
+        {
+            "ap_exam": "Physics 1: Algebra-Based",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics 1: Algebra-Based",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics 1: Algebra-Based",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics 2: Algebra-Based",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics 2: Algebra-Based",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics 2: Algebra-Based",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics C: Electricity & Magnetism",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics C: Electricity & Magnetism",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics C: Mechanics",
+            "minimum_score": "3",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics C: Mechanics",
+            "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Chinese Language & Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Chinese Language & Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "Chinese Language & Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "French Language and Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "French Language and Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "French Language and Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "German Language and Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "German Language and Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "German Language and Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "Italian Language and Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Italian Language and Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "Italian Language and Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "Japanese Language and Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Japanese Language and Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "Japanese Language and Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "Latin",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Latin",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "Latin",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "Spanish Language and Culture",
+            "minimum_score": "3",
+            "credits": "6"
+        },
+        {
+            "ap_exam": "Spanish Language and Culture",
+            "minimum_score": "4",
+            "credits": "9"
+        },
+        {
+            "ap_exam": "Spanish Language and Culture",
+            "minimum_score": "5",
+            "credits": "12"
+        },
+        {
+            "ap_exam": "Spanish Literature and Culture",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Spanish Literature and Culture",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Spanish Literature and Culture",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Research",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Research",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Research",
+            "minimum_score": "5",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Seminar",
+            "minimum_score": "3",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Seminar",
+            "minimum_score": "4",
+            "credits": "3"
+        },
+        {
+            "ap_exam": "Seminar",
+            "minimum_score": "5",
+            "credits": "3"
+        }
+    ]
+}
