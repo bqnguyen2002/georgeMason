@@ -1,5 +1,5 @@
-# georgeMason
-George Mason Credit Transfer Tool
+# AP Credit Transfer Tool
+AP Credit Transfer Tool for George Mason University
 
 Tool used to see how many credits you would receive from George Mason University based on your AP Scores
 
