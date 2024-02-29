@@ -71,6 +71,11 @@
             "credits": "3"
         }, 
         {
+            "ap_exam": "Music Theory",
+            "minimum_score": "5",
+            "credits": "3"
+        }, 
+        {
             "ap_exam": "English Language & Composition",
             "minimum_score": "4",
             "credits": "3"
@@ -222,12 +227,7 @@
         },
         {
             "ap_exam": "World History: Modern",
-            "minimum_score": "4",
-            "credits": "6"
-        },
-        {
-            "ap_exam": "World History: Modern",
-            "minimum_score": "4",
+            "minimum_score": "5",
             "credits": "6"
         },
         {
@@ -298,12 +298,12 @@
         {
             "ap_exam": "Computer Science Principles",
             "minimum_score": "4",
-            "credits": "5"
+            "credits": "3"
         },
         {
             "ap_exam": "Computer Science Principles",
             "minimum_score": "5",
-            "credits": "5"
+            "credits": "3"
         },
         {
             "ap_exam": "Precalculus",
@@ -363,11 +363,6 @@
         {
             "ap_exam": "Chemistry",
             "minimum_score": "5",
-            "credits": "4"
-        },
-        {
-            "ap_exam": "Environmental Science",
-            "minimum_score": "3",
             "credits": "4"
         },
         {
@@ -426,6 +421,11 @@
             "credits": "4"
         },
         {
+            "ap_exam": "Physics C: Electricity & Magnetism",
+            "minimum_score": "5",
+            "credits": "4"
+        },
+        {
             "ap_exam": "Physics C: Mechanics",
             "minimum_score": "3",
             "credits": "4"
@@ -433,6 +433,11 @@
         {
             "ap_exam": "Physics C: Mechanics",
             "minimum_score": "4",
+            "credits": "4"
+        },
+        {
+            "ap_exam": "Physics C: Mechanics",
+            "minimum_score": "5",
             "credits": "4"
         },
         {
